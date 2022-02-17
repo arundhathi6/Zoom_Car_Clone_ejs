@@ -9,14 +9,15 @@ Hi reader, you might have visited, read, or heard about the Zoom car website, Zo
       <a href="https://github.com/arundhathi6">Akshay Kumar</a><br>
       <h3>Features:</h3>
       <ul>
-            <liHome Page: Nav Bar with Sidebar</li>
+            <li>Home Page: Nav Bar with Sidebar.</li>
             <li>Sign-In with OTP Page: User authentication to check whether a user phone number exists in the MongoDB Atlas.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+            <li>OTP Sent Page: Random 6 digit OTP is generated every time a user lands on this page</li>
+            <li>Product Category Page: Car's products are created dynamically with filters by Seats, Types, and Transmission.</li>
+            <li>Checkout Page: Users can add the Some plan for Elit.</li>
+            <li>Payment Page: Users can add their payment details.</li>
+            <li>Order Successful: You will get an alert for your booking and be redirected to the home page.</li>
+            <li>Logout: while the user clicks on logout user data will be removed from local storage.</li>
+            
         </ul>
 
    
