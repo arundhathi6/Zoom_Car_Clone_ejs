@@ -1,6 +1,6 @@
 # Zoom_Car_Clone_ejs
 A web application that provides car rental services &amp; allows users to rent cars by the hour, day, week, or month.
-<img src="https://www.zoomcar.com/build/2bd9b312f575510da149ed2a8b862852.jpeg" style="width: 100%;height:300px;">
+<img src="https://www.zoomcar.com/build/2bd9b312f575510da149ed2a8b862852.jpeg" style="width: 100%;height:430px;">
 <h3>About this project: 🙌</h3>
 Hi reader, you might have visited, read, or heard about the Zoom car website, Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India.This is a team project, built by us in the Construct Week - Unit 4 at Masai School.
 <h3>Our Team Members ❤️</h3>
