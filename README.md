@@ -16,9 +16,7 @@ Hi reader, you might have visited, read, or heard about the Zoom car website, Zo
             <li>Checkout Page: Users can add the Some plan for Elit.</li>
             <li>Payment Page: Users can add their payment details.</li>
             <li>Order Successful: You will get an alert for your booking and be redirected to the home page.</li>
-            <li>Logout: while the user clicks on logout user data will be removed from local storage.</li>
-            
-        </ul>
+            <li>Logout: while the user clicks on logout user data will be removed from local storage.</li></ul>
 
    
 
