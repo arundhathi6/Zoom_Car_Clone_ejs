@@ -1,6 +1,6 @@
 # Zoom_Car_Clone_ejs
 A web application that provides car rental services &amp; allows users to rent cars by the hour, day, week, or month.
-About this project: 🙌
+<h3>About this project: 🙌</h3>
 This is a team project, built by us in the Construct Week - Unit 3/4 at Masai School.
 Our Team Members ❤️
 
