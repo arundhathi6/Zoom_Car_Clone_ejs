@@ -9,8 +9,8 @@ Hi reader, you might have visited, read, or heard about the Zoom car website, Zo
       <a href="https://github.com/arundhathi6">Akshay Kumar</a><br>
       <h3>Features:</h3>
       <ul>
-            <li<b>Home Page: Nav Bar with Sidebar.</b></li>
-            <li<b>Sign-In with OTP Page: User authentication to check whether a user phone number exists in the MongoDB Atlas.</b></li>
+            <liHome Page: Nav Bar with Sidebar</li>
+            <li>Sign-In with OTP Page: User authentication to check whether a user phone number exists in the MongoDB Atlas.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
