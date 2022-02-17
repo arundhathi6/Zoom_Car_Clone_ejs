@@ -17,7 +17,7 @@ Hi reader, you might have visited, read, or heard about the Zoom car website, Zo
             <li>Payment Page : Users can add their payment details.</li>
             <li>Order Successful : You will get an alert for your booking and be redirected to the home page.</li>
             <li>Logout : while the user clicks on logout user data will be removed from local storage.</li></ul>
- ### Tool kits we used to build this project: 🛠
+ <h3>Tool kits we used to build this project: 🛠</h3>
   <ul>
             <li>EJS</li>
             <li>Express</li>
