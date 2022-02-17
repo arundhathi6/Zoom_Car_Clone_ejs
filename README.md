@@ -5,9 +5,9 @@ A web application that provides car rental services &amp; allows users to rent c
 Hi reader, you might have visited, read, or heard about the Zoom car website, Zoomcar, is an Indian self-drive car rental company, headquartered in Bangalore, India.This is a team project, built by us in the Construct Week - Unit 4 at Masai School.
 <h3>Our Team Members ❤️</h3>
    <a href="https://github.com/arundhathi6">Arundhathi R Menon</a><br>
-    <a href="https://github.com/arundhathi6">Sandeep Yadav</a><br>
-     <a href="https://github.com/arundhathi6">Shashi Kumar</a><br>
-      <a href="https://github.com/arundhathi6">Akshay Kumar</a><br>
+    <a href="https://github.com/Raosandeep007">Sandeep Yadav</a><br>
+     <a href="https://github.com/shashifw11">Shashi Kumar</a><br>
+      <a href="https://github.com/Akshay-Kumar2000">Akshay Kumar</a><br>
       <h3>Features:</h3>
       <ul>
             <li>Home Page : Nav Bar with Sidebar.</li>
@@ -25,7 +25,8 @@ Hi reader, you might have visited, read, or heard about the Zoom car website, Zo
             <li>MongoDB</li>
             <li>JavaScript</li>
             <li>CSS</li>
-            <li>NodeJs</li></ul>
+            <li>NodeJs</li>
+            <li>Redis</li></ul>
            
 
    
